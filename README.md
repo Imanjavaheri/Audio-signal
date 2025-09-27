@@ -32,5 +32,3 @@ Collects multiple noisy snapshots, estimates the spatial covariance matrix, perf
 - Modify the scan resolution (`theta_scan`) or peak-detection settings to study the effect on detection confidence and false alarms.
 - Adjust microphone spacing `dx` to replicate the spacing experiments discussed in the report and observe how aliasing impacts the algorithms.
 
-## Testing
-⚠️ Not run (documentation-only update)
